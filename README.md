@@ -6,9 +6,9 @@ We add a little bit noise to each sample to make it more realistic approach.
 Basic API with real-time info and also manual controlling.
 We also implemented kind of area mapping when the drone fly.
 * This project was written in Java.
-                            
-  ![image](https://m.media-amazon.com/images/I/61OQEmuM6hL._AC_SY355_.jpg)
-
+  
+  ![](https://www.extremefliers.com/wp-content/uploads/2021/12/how-to-program-a-drone11.jpeg)                       
+  
 ## Getting Started
 
 When all files located inside eclipse or any other explorer we have the Maps folder which contains couple of maps with route and obstacles.
@@ -43,6 +43,8 @@ If you wish to add custom map it has to be black/white pixels- black is wall/obs
 ## V2 update
 - Added return home bottom, by clicking it drone will return to starting point.
 - Directed Graph feature added. (JGrapht library required)
+- 
+![image](https://m.media-amazon.com/images/I/61OQEmuM6hL._AC_SY355_.jpg)
 
 ## Known bugs
 - API might be in different place depends on the map.
