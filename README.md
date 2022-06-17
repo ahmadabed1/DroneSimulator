@@ -49,4 +49,6 @@ If you wish to add custom map it has to be black/white pixels- black is wall/obs
 
 ## Images
 ![](https://i.imgur.com/lweL2Fp.png)
+![](https://github.com/ahmadabed1/DroneSimulator/blob/main/Images/Image3.png?raw=true)
+
 ![graphexample](https://user-images.githubusercontent.com/28596354/60256218-cc095680-98d9-11e9-8ab4-70c00e863df8.png)
