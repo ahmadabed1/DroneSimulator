@@ -35,6 +35,8 @@ Start/pause button, speed up/down, spin -+30/-+45/-+60/90/180.
 - Toggle Map - allows you to hide the real map, entering to "real time" vision.
 - Toggle AI - enable/disable AI.
 
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPaMUGI2llSFTn9uDlXzr1laF9JG8LASr1-Q&usqp=CAU)
+
 ## Map rules
 If you wish to add custom map it has to be black/white pixels- black is wall/obstacle, white is safe pass.
 
