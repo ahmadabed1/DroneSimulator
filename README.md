@@ -23,9 +23,16 @@ In our project we set 3 lidars - one in front, second 90 degrees, third -90 degr
 - Optical flow - check his location on map.
 - Speed - max speed is 2m per second.
 
+# leader
 - ![](https://cdn.sick.com/media/895/0/70/770/IM0090770.png)
+
+# Gyroscpoe
 - ![](https://www.bhphotovideo.com/images/images500x500/hubsan_zino000_06_gyroscope_module_for_h117s_1496876.jpg)
+
+# Optical flow 
 - ![](https://i.stack.imgur.com/S1APo.jpg)
+
+# Speed
 - ![](https://cdn-global-hk.hobbyking.com/media/catalog/product/cache/4/image/660x415/17f82f742ffe127f42dca9de82fb58b1/legacy/catalog/110366.jpg)
 
 
