@@ -23,6 +23,10 @@ In our project we set 3 lidars - one in front, second 90 degrees, third -90 degr
 - Optical flow - check his location on map.
 - Speed - max speed is 2m per second.
 
+![](https://cdn.sick.com/media/895/0/70/770/IM0090770.png)
+
+
+
 ## Symbols 
 - Yellow mark - mapped area.
 - Black circle - his purpose to get some idea from where drone came and simply make some route that his passed.(for navigation)
